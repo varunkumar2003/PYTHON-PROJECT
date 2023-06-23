@@ -1,2 +1,2 @@
 # PYTHON-PROJECT.
-#For sending emils 
+#For sending emails 
