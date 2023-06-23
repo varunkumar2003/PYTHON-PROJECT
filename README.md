@@ -1,2 +1,2 @@
-# PYTHON-PROJECT.
-#For sending emails 
+# Linear Regression
+#For predicting salary.
